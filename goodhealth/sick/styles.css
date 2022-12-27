@@ -1,0 +1,60 @@
+.divtable{
+
+   padding-top: 2%;
+   padding-left: 10%;
+   padding-right: 10%;
+   padding-bottom: 10%;
+   background-color: white;
+}
+.datasick{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.divtop{
+    margin-top: 0%;
+    height: 70px;
+    width: 100%;
+    background-color: #3366FF !important;
+}
+.btn{
+    margin-left: 1%;
+    margin-bottom: 0.5%;
+}
+
+.meanh1{
+    font-family: 'Sriracha', cursive !important;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: auto;
+}
+.table{
+    font-family: 'Sriracha', cursive !important;
+}
+.bg-primary{
+    color: white;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  #myInput {
+    /* background-image: url('sick/search.png');
+    background-position: 10px 10px; */
+    background-repeat: no-repeat;
+    width: 50%;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-left: 20%;
+  }
+  .searchicon{
+    position: absolute;
+    /* margin-bottom: 5px; */
+    margin-top: 15px;
+    margin-left: 20%;
+    width: 40px;
+    height: 40px;
+  }
